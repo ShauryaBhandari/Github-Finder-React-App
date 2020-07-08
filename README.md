@@ -15,4 +15,5 @@ Open [http://localhost:3000](http://localhost:3000)
 
 Builds the app for production to the `build` folder.<br>
 
-![alt text](https://github.com/ShauryaBhandari/Github-Finder-React-App/blob/master/Site%20Demo.png)
+### Site Demo:
+![Site Demo](https://github.com/ShauryaBhandari/Github-Finder-React-App/blob/master/Site%20Demo.png)
